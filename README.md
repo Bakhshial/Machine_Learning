@@ -1,1 +1,2 @@
-# Machine_Learning, In this folder, you can  see these lectures in Jupyter Notebook, mathematics concepts, and my practice, how can I  enhance my knowledge.
+# Machine Learning
+Machine Learning (ML) is a branch of artificial intelligence (AI) that focuses on enabling computers to learn from data and improve their performance on specific tasks without being explicitly programmed. In traditional programming, developers write explicit rules or algorithms to solve a particular problem. In contrast, machine learning algorithms allow computers to learn from examples and make predictions or decisions based on the learned patterns.
